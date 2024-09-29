@@ -9,3 +9,5 @@ seaborn
 openpyxl
 nbformat
 statsmodels
+ultralytics
+ipykernel

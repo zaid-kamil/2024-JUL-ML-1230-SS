@@ -1,2 +1,3 @@
 recommendation/sim_mat.jb
 recommendation/movies.jb
+hard-hat-detection/*
